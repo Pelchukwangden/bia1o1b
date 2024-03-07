@@ -10,4 +10,3 @@ didHeWin = True #boolean
 print(type(name2))
 print(varaiable1)
 # we have to know types of data as integer cant be compared to str
-de
