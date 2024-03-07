@@ -13,10 +13,14 @@ userInput = input("Type your age: ")
 userAge = int(userInput)
 
 #check if user can vote 
-if userAge > 18:
+if userAge > 18: # >= 18
     print(' you can vote')
 elif userAge < 18:
     print('you cannot vote')
 else:
     print (' you can vote')
 #if user type 18 it shows u cant vote
+
+#array is used to store multiple values
+#stacks: LIFO 
+# que : FIFO
