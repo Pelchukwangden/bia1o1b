@@ -38,6 +38,6 @@ if userInputNumber > 0:
 elif userInputNumber < 0:
     print ('the number is negative')
 else:
-    print('the number is zero'# if a condition if true for eg the first one, the 2nd will not exicute
+    print('the number is zero')# if a condition if true for eg the first one, the 2nd will not exicute
           
 
