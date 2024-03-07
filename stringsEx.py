@@ -5,3 +5,5 @@
 userInput = input("type something: ")
 userInputConverted = userInput.upper()
 print(userInputConverted)
+
+
