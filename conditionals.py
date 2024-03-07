@@ -1,33 +1,36 @@
-# obj: a calculator application 
+# # obj: a calculator application 
 
-#STEPS
-#1. get input from the user
-# do claculation based on user input
-#check the type of usertypes
-#if users str is * do multiplication
-#give output to the user
+# #STEPS
+# #1. get input from the user
+# # do claculation based on user input
+# #check the type of usertypes
+# #if users str is * do multiplication
+# #give output to the user
 
-userInput = ""
+# userInput = ""
 
-print('* for multiplication')
-print("+ for addition")
-print("- for subtraction")
-print('/ for division')
-WhatUserTypes = input()
+# print('* for multiplication')
+# print("+ for addition")
+# print("- for subtraction")
+# print('/ for division')
+# WhatUserTypes = input()
 
-print('User typed:', WhatUserTypes)
-print("user input type", type(WhatUserTypes))
+# print('User typed:', WhatUserTypes)
+# print("user input type", type(WhatUserTypes))
 
-print('--------------------------')
-if WhatUserTypes == "+":
-    print("doing addtion")
-    if "a" == 'b':
-        print (' a is not b')
-    if 'b' == 'b':
-        print('b is b')
-print("doing more addition")#level of indentations
+# print('--------------------------')
+# if WhatUserTypes == "+":
+#     print("doing addtion")
+#     if "a" == 'b':
+#         print (' a is not b')
+#     if 'b' == 'b':
+#         print('b is b')
+# print("doing more addition")#level of indentations
 
-if WhatUserTypes == "-":
-    print("doing subtraction")
-    print("doing more subtraction")
+# if WhatUserTypes == "-":
+#     print("doing subtraction")
+#     print("doing more subtraction")
     
+# if = and#if is a reserved key word it is used to compareeg:def, for, 
+
+# print(if)
