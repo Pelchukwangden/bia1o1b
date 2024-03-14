@@ -36,3 +36,5 @@ while counter < lenght_of_p:
     print(char)
     counter = counter + 1
     print("-------")
+
+
