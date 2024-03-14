@@ -15,3 +15,4 @@ for x in nameTest:
         result = result + x
 
 print (result)
+
