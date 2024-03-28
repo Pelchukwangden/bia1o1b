@@ -1,6 +1,6 @@
 # read input.txt file and put it to an array
 with open("input.txt") as f:
-    lines = f.readlines()
+    lines = f.readlines()
 
 lines = [x.strip() for x in lines] # python list comprehension
 
@@ -23,8 +23,8 @@ lines = [x.strip() for x in lines] # python list comprehension
 
 score_array = 0
 for line in lines:
-    if line == "A X":
-        score_array = score_array + 4
+    if line == "A X":
+         score_array = score_array + 4
     elif line == "A Y":
         score_array = score_array + 1
     elif line == "A Z":
@@ -40,7 +40,7 @@ for line in lines:
     elif line == "C Y":
         score_array = score_array + 9
     elif line == "C Z":
-        score_array = score_array + 6
+         score_array = score_array + 6
 
 print('Score using array', score_array)
 
