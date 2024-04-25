@@ -24,3 +24,4 @@ else:
 #array is used to store multiple values
 #stacks: LIFO 
 # que : FIFO
+
